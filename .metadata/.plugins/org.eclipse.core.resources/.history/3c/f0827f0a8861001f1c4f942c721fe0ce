@@ -1,0 +1,32 @@
+package models;
+
+import jakarta.annotation.Nonnull;
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+import jakarta.validation.constraints.NotEmpty;
+
+@Entity
+@Table(name = User.TABLE_NAME)
+public class User {
+
+		public static final String TABLE_NAME = "User";
+		
+		@Id
+		@GeneratedValue(strategy = GenerationType.IDENTITY)
+		@Column(name = "id", unique = true)
+		private Long id;
+		
+		@Column(name = "username", length = 100, nullable = false, unique = true)
+		@Nonnull
+		@NotEmpty
+		private String username;
+		
+		@Column(name = "password", length = 60, nullable = false)
+		@Nonnull
+		@NotEmpty
+		private String password;
+}
