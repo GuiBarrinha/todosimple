@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-08-23T12:19:14Z</updated>
+  <updated>2024-08-26T12:19:42Z</updated>
   <link href="https://tools.jboss.org"/>
   <xhtml:meta content="noindex" name="robots" xmlns:xhtml="http://www.w3.org/1999/xhtml"/><entry>
+    <title>JBoss Blogs: Keycloak Database User Federation</title>
+    <updated>2024-08-26T10:23:18Z</updated>
+    <id>https://www.mastertheboss.com/keycloak/keycloak-database-user-federation/</id>
+    <link href="https://www.mastertheboss.com/keycloak/keycloak-database-user-federation/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Running applications with Paketo Buildpacks and Red Hat UBI container images in OpenShift</title>
+    <updated>2024-08-26T07:00:00Z</updated>
+    <id>46002878-1316-4b3d-b780-2ef219d3e29e</id>
+    <link href="https://developers.redhat.com/articles/2024/08/26/running-applications-paketo-buildpacks-and-red-hat-ubi-container-images" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Upcoming Vert.x Http Proxy updates</title>
     <updated>2024-08-23T00:00:00Z</updated>
     <id>https://vertx.io/blog/gsoc-vertx-proxy-updates</id>
@@ -88,7 +102,14 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Leveraging Quarkus build-time metaprogramming capabilities to improve Jackson's serialization performance</title>
+    <title>JBoss Blogs: Keycloak 25.0.4 released</title>
+    <updated>2024-08-19T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/08/keycloak-2504-released</id>
+    <link href="https://www.keycloak.org/2024/08/keycloak-2504-released" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Leveraging Quarkus build-time metaprogramming capabilities to improve Jackson's serialization performance</title>
     <updated>2024-08-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-metaprogramming/</id>
     <link href="https://quarkus.io/blog/quarkus-metaprogramming/" rel="alternate"/>
@@ -102,17 +123,10 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Leveraging Quarkus build-time metaprogramming capabilities to improve Jackson's serialization performance</title>
+    <title>Quarkus: Leveraging Quarkus build-time metaprogramming capabilities to improve Jackson's serialization performance</title>
     <updated>2024-08-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-metaprogramming/</id>
     <link href="https://quarkus.io/blog/quarkus-metaprogramming/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Keycloak 25.0.4 released</title>
-    <updated>2024-08-19T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/08/keycloak-2504-released</id>
-    <link href="https://www.keycloak.org/2024/08/keycloak-2504-released" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -158,13 +172,6 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Red Hat Developer: A self-service approach to building virtual machines at scale</title>
-    <updated>2024-08-14T07:00:00Z</updated>
-    <id>d5a20b96-6f09-4e8a-8a85-f91d06e8f967</id>
-    <link href="https://developers.redhat.com/articles/2024/08/14/self-service-approach-building-virtual-machines-scale" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
     <title>JBoss Blogs: WildFly proxy with reuse-x-forwarded and rewrite-host</title>
     <updated>2024-08-12T13:09:24Z</updated>
     <id>https://www.mastertheboss.com/web/jboss-web-server/wildfly-proxy-with-reuse-x-forwarded-and-rewrite-host/</id>
@@ -179,7 +186,7 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.13.2 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.13.2 released - Maintenance release</title>
     <updated>2024-08-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-13-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-13-2-released/" rel="alternate"/>
@@ -193,7 +200,7 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.13.2 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.13.2 released - Maintenance release</title>
     <updated>2024-08-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-13-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-13-2-released/" rel="alternate"/>
@@ -221,14 +228,14 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Project Leyden</title>
+    <title>Quarkus: Project Leyden</title>
     <updated>2024-08-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-and-leyden/</id>
     <link href="https://quarkus.io/blog/quarkus-and-leyden/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Project Leyden</title>
+    <title>JBoss Blogs: Project Leyden</title>
     <updated>2024-08-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-and-leyden/</id>
     <link href="https://quarkus.io/blog/quarkus-and-leyden/" rel="alternate"/>
@@ -260,13 +267,6 @@
     <updated>2024-08-01T00:00:00Z</updated>
     <id>https://quarkus.io/blog/search-standalone-mapper/</id>
     <link href="https://quarkus.io/blog/search-standalone-mapper/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.13 - OpenTelemetry Metrics, OpenTelemetry 1.39, TLS registry improvements and more...</title>
-    <updated>2024-07-31T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-13-0-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-13-0-released/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -361,17 +361,17 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus Newsletter #45 - June</title>
-    <updated>2024-06-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
-    <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
     <title>Quarkus: Why you should always update to the latest micro versions!</title>
     <updated>2024-06-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/branching-and-versioning/</id>
     <link href="https://quarkus.io/blog/branching-and-versioning/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus Newsletter #45 - June</title>
+    <updated>2024-06-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
+    <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -424,17 +424,17 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
-    <updated>2024-05-15T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus Newsletter #44 - May</title>
     <updated>2024-05-15T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-44/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-44/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.10.1 released - Maintenance release</title>
+    <updated>2024-05-15T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-10-1-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-10-1-released/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -487,17 +487,17 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
-    <updated>2024-04-17T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.8.4 released - Maintenance release</title>
     <updated>2024-04-17T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-8-4-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-8-4-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Quarkus 3.2.12.Final released - Maintenance LTS release</title>
+    <updated>2024-04-17T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-2-12-final-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-2-12-final-released/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -515,17 +515,17 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Changing the Quarkus loggers level from Unleash</title>
-    <updated>2024-04-03T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/changing-loggers-level-from-unleash/</id>
-    <link href="https://quarkus.io/blog/changing-loggers-level-from-unleash/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
     <title>Quarkus: Quarkus 3.9.2 released - Maintenance release</title>
     <updated>2024-04-03T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-9-2-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-9-2-released/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Changing the Quarkus loggers level from Unleash</title>
+    <updated>2024-04-03T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/changing-loggers-level-from-unleash/</id>
+    <link href="https://quarkus.io/blog/changing-loggers-level-from-unleash/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -578,17 +578,17 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
-    <updated>2023-07-03T00:00:00Z</updated>
-    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
-    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.28.0.Final for Eclipse 2023-06</title>
     <updated>2023-07-03T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.28.0.final.html</id>
     <link href="https://tools.jboss.org/blog/4.28.0.final.html" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: This Week in JBoss - July 03, 2023</title>
+    <updated>2023-07-03T00:00:00Z</updated>
+    <id>https://www.jboss.org/posts/weekly-2023-07-03.html</id>
+    <link href="https://www.jboss.org/posts/weekly-2023-07-03.html" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -1425,17 +1425,17 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
-    <updated>2018-07-17T00:00:00Z</updated>
-    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
-    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools and Red Hat Developer Studio for Eclipse Photon</title>
     <updated>2018-07-17T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/12.0.0.ga-for-photon.html</id>
     <link href="https://tools.jboss.org/blog/12.0.0.ga-for-photon.html" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Tools: RHAMT Eclipse Plugin 4.1.0.Final has been released!</title>
+    <updated>2018-07-17T00:00:00Z</updated>
+    <id>https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html</id>
+    <link href="https://tools.jboss.org/blog/rhamt_4.1.0.Final_release.html" rel="alternate"/>
     <summary type="html"/>
   </entry>
 </feed>
