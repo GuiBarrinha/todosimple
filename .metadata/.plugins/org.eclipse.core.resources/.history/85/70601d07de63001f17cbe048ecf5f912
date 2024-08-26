@@ -1,0 +1,5 @@
+package com.guilhermebarrinha.todosimple.repository;
+
+public class UserRepository {
+
+}
