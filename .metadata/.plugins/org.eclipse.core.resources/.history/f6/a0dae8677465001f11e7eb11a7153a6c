@@ -1,0 +1,5 @@
+package com.guilhermebarrinha.todosimple.controller;
+
+public class UserController {
+
+}
