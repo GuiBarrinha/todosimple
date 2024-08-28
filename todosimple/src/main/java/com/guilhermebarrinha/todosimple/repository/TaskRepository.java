@@ -8,7 +8,8 @@ import org.springframework.stereotype.Repository;
 import com.guilhermebarrinha.todosimple.models.Task;
 
 @Repository
-public interface TaskRepository extends JpaRepository<Task, Long>{
+public interface TaskRepository extends JpaRepository<Task, Long> {
 
-		List<Task> findByUser(Long id);
+	List<Task> findByUser(Long id);
 }
+

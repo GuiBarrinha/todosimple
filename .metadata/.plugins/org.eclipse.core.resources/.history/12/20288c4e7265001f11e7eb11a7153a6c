@@ -1,0 +1,37 @@
+package com.guilhermebarrinha.todosimple.service;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.guilhermebarrinha.todosimple.models.Task;
+import com.guilhermebarrinha.todosimple.models.User;
+import com.guilhermebarrinha.todosimple.repository.TaskRepository;
+
+@Service
+public class TaskService {
+
+	@Autowired
+	private TaskRepository taskRepository;
+
+	@Autowired
+	private UserService userService;
+
+	private Task findById(Long id) {
+		Optional<Task> task = taskRepository.findById(id);
+		return task.orElseThrow(() -> new RuntimeException(
+				"Tarefa nao encontrado! Id: " + id + ", Tipo: " + Task.class.getName()
+		));
+	}
+	
+	@Transactional
+	public Task create(Task obj) {
+		User user = this.userService.findById(obj.getUser().getId());
+		obj.setId(null);
+		obj.setUser(user);
+		obj = this.taskRepository.save(obj);
+		return obj;
+	}
+}
