@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>JBoss Tools Aggregated Feed</title>
   <id>https://tools.jboss.org</id>
-  <updated>2024-08-26T12:19:42Z</updated>
+  <updated>2024-08-28T12:20:17Z</updated>
   <link href="https://tools.jboss.org"/>
   <xhtml:meta content="noindex" name="robots" xmlns:xhtml="http://www.w3.org/1999/xhtml"/><entry>
+    <title>Red Hat Developer: Monitoring Ansible Automation Platform using Prometheus, Node Exporter, and Grafana</title>
+    <updated>2024-08-28T07:00:00Z</updated>
+    <id>1693156d-7bfa-4f89-842c-6e590b116261</id>
+    <link href="https://developers.redhat.com/articles/2024/08/28/monitoring-ansible-automation-platform-using-prometheus-node-exporter-and" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Building multi-architecture container images on OpenShift Container Platform clusters</title>
+    <updated>2024-08-27T07:00:00Z</updated>
+    <id>7add97cb-07f7-4578-bce6-fb3a2a3b4a50</id>
+    <link href="https://developers.redhat.com/articles/2024/08/27/building-multi-architecture-container-images-openshift-container-platform" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
     <title>JBoss Blogs: Keycloak Database User Federation</title>
     <updated>2024-08-26T10:23:18Z</updated>
     <id>https://www.mastertheboss.com/keycloak/keycloak-database-user-federation/</id>
@@ -32,17 +46,17 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Red Hat Developer: Your second GPU algorithm: Quicksort</title>
-    <updated>2024-08-22T07:00:00Z</updated>
-    <id>9238ff3b-7314-45b2-9436-902d19ef618a</id>
-    <link href="https://developers.redhat.com/articles/2024/08/22/write-gpu-algorithm-quicksort" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
     <title>Red Hat Developer: Designing K8s operators for managing REST resources</title>
     <updated>2024-08-22T07:00:00Z</updated>
     <id>e8daa423-226f-44f0-947e-74711bd17892</id>
     <link href="https://developers.redhat.com/articles/2024/08/21/design-kubernetes-operator-rest-resources" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Red Hat Developer: Your second GPU algorithm: Quicksort</title>
+    <updated>2024-08-22T07:00:00Z</updated>
+    <id>9238ff3b-7314-45b2-9436-902d19ef618a</id>
+    <link href="https://developers.redhat.com/articles/2024/08/22/write-gpu-algorithm-quicksort" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -67,14 +81,14 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.13.3 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.13.3 released - Maintenance release</title>
     <updated>2024-08-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-13-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-13-3-released/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.13.3 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.13.3 released - Maintenance release</title>
     <updated>2024-08-20T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-13-3-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-13-3-released/" rel="alternate"/>
@@ -102,13 +116,6 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Keycloak 25.0.4 released</title>
-    <updated>2024-08-19T00:00:00Z</updated>
-    <id>https://www.keycloak.org/2024/08/keycloak-2504-released</id>
-    <link href="https://www.keycloak.org/2024/08/keycloak-2504-released" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
     <title>JBoss Blogs: Leveraging Quarkus build-time metaprogramming capabilities to improve Jackson's serialization performance</title>
     <updated>2024-08-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-metaprogramming/</id>
@@ -116,7 +123,7 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Revolutionising Telecom Microservice - Modernising JDiameter with Quarkus</title>
+    <title>JBoss Blogs: Revolutionising Telecom Microservice - Modernising JDiameter with Quarkus</title>
     <updated>2024-08-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-jdiameter-intro/</id>
     <link href="https://quarkus.io/blog/quarkus-jdiameter-intro/" rel="alternate"/>
@@ -130,10 +137,17 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Revolutionising Telecom Microservice - Modernising JDiameter with Quarkus</title>
+    <title>Quarkus: Revolutionising Telecom Microservice - Modernising JDiameter with Quarkus</title>
     <updated>2024-08-19T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-jdiameter-intro/</id>
     <link href="https://quarkus.io/blog/quarkus-jdiameter-intro/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Keycloak 25.0.4 released</title>
+    <updated>2024-08-19T00:00:00Z</updated>
+    <id>https://www.keycloak.org/2024/08/keycloak-2504-released</id>
+    <link href="https://www.keycloak.org/2024/08/keycloak-2504-released" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -158,24 +172,17 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Red Hat Developer: What's new in version 7.1 of Red Hat’s Migration Toolkit for Applications</title>
-    <updated>2024-08-15T07:00:00Z</updated>
-    <id>6fd190c3-184b-4315-98a4-058673f98711</id>
-    <link href="https://developers.redhat.com/articles/2024/08/15/whats-new-version-71-red-hats-migration-toolkit-applications" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>Red Hat Developer: Your first GPU algorithm: Scan/prefix sum</title>
-    <updated>2024-08-15T07:00:00Z</updated>
-    <id>47d9832d-59e9-4551-9873-487790be950f</id>
-    <link href="https://developers.redhat.com/articles/2024/08/15/your-first-gpu-algorithm-scanprefix-sum" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
     <title>JBoss Blogs: WildFly proxy with reuse-x-forwarded and rewrite-host</title>
     <updated>2024-08-12T13:09:24Z</updated>
     <id>https://www.mastertheboss.com/web/jboss-web-server/wildfly-proxy-with-reuse-x-forwarded-and-rewrite-host/</id>
     <link href="https://www.mastertheboss.com/web/jboss-web-server/wildfly-proxy-with-reuse-x-forwarded-and-rewrite-host/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>JBoss Blogs: Quarkus 3.13.2 released - Maintenance release</title>
+    <updated>2024-08-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/quarkus-3-13-2-released/</id>
+    <link href="https://quarkus.io/blog/quarkus-3-13-2-released/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -200,21 +207,14 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Quarkus 3.13.2 released - Maintenance release</title>
-    <updated>2024-08-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/quarkus-3-13-2-released/</id>
-    <link href="https://quarkus.io/blog/quarkus-3-13-2-released/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
-    <title>JBoss Blogs: Quarkus 3.13.1 released - Maintenance release</title>
+    <title>Quarkus: Quarkus 3.13.1 released - Maintenance release</title>
     <updated>2024-08-07T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-13-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-13-1-released/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Quarkus 3.13.1 released - Maintenance release</title>
+    <title>JBoss Blogs: Quarkus 3.13.1 released - Maintenance release</title>
     <updated>2024-08-07T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-3-13-1-released/</id>
     <link href="https://quarkus.io/blog/quarkus-3-13-1-released/" rel="alternate"/>
@@ -228,14 +228,14 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Project Leyden</title>
+    <title>JBoss Blogs: Project Leyden</title>
     <updated>2024-08-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-and-leyden/</id>
     <link href="https://quarkus.io/blog/quarkus-and-leyden/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Project Leyden</title>
+    <title>Quarkus: Project Leyden</title>
     <updated>2024-08-06T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-and-leyden/</id>
     <link href="https://quarkus.io/blog/quarkus-and-leyden/" rel="alternate"/>
@@ -256,14 +256,14 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Leveraging Hibernate Search capabilities in a Quarkus application without a database</title>
+    <title>JBoss Blogs: Leveraging Hibernate Search capabilities in a Quarkus application without a database</title>
     <updated>2024-08-01T00:00:00Z</updated>
     <id>https://quarkus.io/blog/search-standalone-mapper/</id>
     <link href="https://quarkus.io/blog/search-standalone-mapper/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
-    <title>JBoss Blogs: Leveraging Hibernate Search capabilities in a Quarkus application without a database</title>
+    <title>Quarkus: Leveraging Hibernate Search capabilities in a Quarkus application without a database</title>
     <updated>2024-08-01T00:00:00Z</updated>
     <id>https://quarkus.io/blog/search-standalone-mapper/</id>
     <link href="https://quarkus.io/blog/search-standalone-mapper/" rel="alternate"/>
@@ -347,13 +347,6 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Crafting a Local RAG application with Quarkus</title>
-    <updated>2024-06-13T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/granite-rag/</id>
-    <link href="https://quarkus.io/blog/granite-rag/" rel="alternate"/>
-    <summary type="html"/>
-  </entry>
-  <entry>
     <title>JBoss Tools: JBoss Tools 4.29.1.Final for Eclipse 2023-09</title>
     <updated>2024-06-13T00:00:00Z</updated>
     <id>https://tools.jboss.org/blog/4.29.1.final.html</id>
@@ -361,10 +354,10 @@
     <summary type="html"/>
   </entry>
   <entry>
-    <title>Quarkus: Why you should always update to the latest micro versions!</title>
-    <updated>2024-06-12T00:00:00Z</updated>
-    <id>https://quarkus.io/blog/branching-and-versioning/</id>
-    <link href="https://quarkus.io/blog/branching-and-versioning/" rel="alternate"/>
+    <title>Quarkus: Crafting a Local RAG application with Quarkus</title>
+    <updated>2024-06-13T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/granite-rag/</id>
+    <link href="https://quarkus.io/blog/granite-rag/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
@@ -372,6 +365,13 @@
     <updated>2024-06-12T00:00:00Z</updated>
     <id>https://quarkus.io/blog/quarkus-newsletter-45/</id>
     <link href="https://quarkus.io/blog/quarkus-newsletter-45/" rel="alternate"/>
+    <summary type="html"/>
+  </entry>
+  <entry>
+    <title>Quarkus: Why you should always update to the latest micro versions!</title>
+    <updated>2024-06-12T00:00:00Z</updated>
+    <id>https://quarkus.io/blog/branching-and-versioning/</id>
+    <link href="https://quarkus.io/blog/branching-and-versioning/" rel="alternate"/>
     <summary type="html"/>
   </entry>
   <entry>
